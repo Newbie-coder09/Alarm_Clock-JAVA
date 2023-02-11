@@ -7,6 +7,9 @@ Alarm Clock- A utility that everyone needs.
 You all must have used Alarm for atleast once in your life. This code is written by Ayush and is free to use and is complete within 400 ines of code. The GUI is awesome and its working perfectly fine. You can set a default tone as well and you can select any other tone too.
 The code is short and easy to understand.
 
+Check Sample Video (v1):
+[![Sample]([https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg](https://user-images.githubusercontent.com/119154806/218244270-7fa61ae2-1928-4bde-8045-9f43085f473e.jpg))](https://youtu.be/PQ16ggjYI-8 "Alarm v1 Sample Video")
+
 Check the code:
 
   	import java.awt.*;
