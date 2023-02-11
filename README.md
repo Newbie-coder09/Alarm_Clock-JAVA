@@ -7,12 +7,19 @@ Alarm Clock- A utility that everyone needs.
 You all must have used Alarm for atleast once in your life. This code is written by Ayush and is free to use and is complete within 400 ines of code. The GUI is awesome and its working perfectly fine. You can set a default tone as well and you can select any other tone too.
 The code is short and easy to understand.
 
+Features of the code:
+* Can add upto 3 alarms.
+* If audio is not selected while setting alarm, default tone will get selected.
+* Different audios can be selected for different alarms.
+* Can edit and delete a perticular alarm.
+* Ui looks great
+
 Check Sample Video (v1):
 [![Sample](https://user-images.githubusercontent.com/119154806/218260002-71dae93d-51ed-40db-9b00-dba0364451df.png)](https://youtu.be/PQ16ggjYI-8 "Alarm v1 Sample Video")
 
 Check Screenshots:
 <details>
-  <summary>The title of the image group</summary><details>
+  <summary>Click Here To Check</summary><details>
   <img src="https://user-images.githubusercontent.com/119154806/218260108-cd55820d-7c57-4efd-9a4b-044c93b8e4e4.png" name="Screenshot_vlc_20230211184225">
   <img src="https://user-images.githubusercontent.com/119154806/218260112-35ef5a23-2dda-4ea9-961d-994a18cdf03c.png" name="Screenshot_vlc_20230211184251">
   <img src="https://user-images.githubusercontent.com/119154806/218260118-2196d7ae-9542-42b9-8bfa-55156ddfe9c9.png" name="Screenshot_vlc_20230211184315">
