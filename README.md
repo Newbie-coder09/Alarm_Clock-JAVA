@@ -439,11 +439,11 @@ Check the code:
 Details about code:
 * The code is self explainatory.
 * Contact me on Telegram @SOUL_AYU if you need any help.
-* You have to create a folder named "res" outside src folder and past any audio which have wav extention with filename as music.wav to set it as default tone. Check this video for help: https://www.youtube.com/watch?v=IgfcSr3NlG0&ab_channel=RyiSnow
+* You have to create a folder named "res" outside src folder and paste any audio which have .wav extention with filename as music.wav to set it as default tone. Check this video for help: https://www.youtube.com/watch?v=IgfcSr3NlG0&ab_channel=RyiSnow
 
 Issues:
 * Maximum alarms that can be set is 3.
-* Can set alarm according to 12 Hours clock only.
+* Can set alarm according to 12 Hour clock only.
 * GUI sometime misbehaves.
 
 Conclusion:
