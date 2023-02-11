@@ -14,9 +14,11 @@ Features of the code:
 * Can edit and delete a perticular alarm.
 * Ui looks great
 
+
 Check Sample Video (v1):
 
 [![Sample](https://user-images.githubusercontent.com/119154806/218260002-71dae93d-51ed-40db-9b00-dba0364451df.png)](https://youtu.be/PQ16ggjYI-8 "Alarm v1 Sample Video")
+
 
 Check Screenshots:
 <details>
@@ -29,6 +31,7 @@ Check Screenshots:
   <img src="https://user-images.githubusercontent.com/119154806/218260126-37158e28-35e6-4be8-8af6-737d076b20dd.png" name="Screenshot_vlc_20230211184505">
   <img src="https://user-images.githubusercontent.com/119154806/218260127-84c4afb7-939f-4752-a112-17ce354f46da.png" name="Screenshot_vlc_20230211184526">
 </details>
+
 
 Check the code:
 
@@ -433,4 +436,17 @@ Check the code:
 	}
 	}
 
-This program's UI is Amazing and the code is short as well. There are some limitations of the program which are discusssed below.
+Details about code:
+* The code is self explainatory.
+* Contact me on Telegram @SOUL_AYU if you need any help.
+* You have to create a folder named "res" outside src folder and past any audio which have wav extention with filename as music.wav to set it as default tone. Check this video for help: https://www.youtube.com/watch?v=IgfcSr3NlG0&ab_channel=RyiSnow
+
+Issues:
+* Maximum alarms that can be set is 3.
+* Can set alarm according to 12 Hours clock only.
+* GUI sometime misbehaves.
+
+Conclusion:
+This program's UI is Amazing and the code is short as well. There are some limitations which are discussed above. You can get the code from here and Jar and Exe file from release section of this repo.
+
+Thanks for reading till end, please consider checking my other repos as well.
