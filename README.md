@@ -8,17 +8,17 @@ You all must have used Alarm for atleast once in your life. This code is written
 The code is short and easy to understand.
 
 Check the code:
-  import java.awt.*;
-import java.awt.event.*;
-import java.io.*;
-import java.net.URL;
-import java.time.LocalDateTime;
-import java.util.Calendar;
-import javax.sound.sampled.*;
-import javax.swing.*;
-import javax.swing.filechooser.FileNameExtensionFilter;
+  	import java.awt.*;
+	import java.awt.event.*;
+	import java.io.*;
+	import java.net.URL;
+	import java.time.LocalDateTime;
+	import java.util.Calendar;
+	import javax.sound.sampled.*;
+	import javax.swing.*;
+	import javax.swing.filechooser.FileNameExtensionFilter;
 
-public class MyFrame extends JFrame implements ActionListener{
+	public class MyFrame extends JFrame implements ActionListener{
 
 	private static final long serialVersionUID = 1L;
 	URL def = getClass().getResource("music.wav");
@@ -407,6 +407,6 @@ public class MyFrame extends JFrame implements ActionListener{
 		if(e.getSource()==butt[1])
 			stop_or_del(playing);
 	}
-}
+	}
 
 This program's UI is Amazing and the code is short as well. There are some limitations of the program which are discusssed below.
