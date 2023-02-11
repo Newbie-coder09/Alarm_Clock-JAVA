@@ -19,7 +19,7 @@ Check Sample Video (v1):
 
 Check Screenshots:
 <details>
-  <summary>Click Here To Check</summary><details>
+  <summary>Click Here To Check</summary>
   <img src="https://user-images.githubusercontent.com/119154806/218260108-cd55820d-7c57-4efd-9a4b-044c93b8e4e4.png" name="Screenshot_vlc_20230211184225">
   <img src="https://user-images.githubusercontent.com/119154806/218260112-35ef5a23-2dda-4ea9-961d-994a18cdf03c.png" name="Screenshot_vlc_20230211184251">
   <img src="https://user-images.githubusercontent.com/119154806/218260118-2196d7ae-9542-42b9-8bfa-55156ddfe9c9.png" name="Screenshot_vlc_20230211184315">
